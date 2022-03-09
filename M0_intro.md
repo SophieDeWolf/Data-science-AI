@@ -1,4 +1,4 @@
-# H0 - Introduction
+# Module 0 - Introduction
 
 ## Lies & statistics
 - Grafieken zijn soms misleidend opgesteld
