@@ -35,6 +35,47 @@ Voorbeeld bepalen (on)afhankelijk
 - Dus: P(A ∩ B) ≠ P(A) * P(B) → afhankelijk
 
 ### Random variable
+Voorbeeld: je krijgt geld bij trekken van bepaalde kaart  
+<img src="afbeeldingen/M3_waardeKaarten.png" width="350"/>  
 
+Door regels van probabiliteit kunnen we hier kansen bijzetten:  
+<img src="afbeeldingen/M3_kansen.png" width="350"/>  
+
+Waarbij altijd: f(0) + f(1) + f(2) + f(3) = 1 en ook 0 ≤ f(x) ≤ 1
+
+Zelfde voorbeeld kan bij gooien van som 8 met 2 dobbelstenen → 2+6, 3+5, 4+4, 5+3, 6+2 → 5 op 36 kansen  
+
+Als je probability distribution function hebt: andere probabilities berekenen
+- Minstens ...
+- Voorbeeld: minstens €2 verdienen met eerder genoemde spel
+
+<img src="afbeeldingen/M3_minstensTwee.png" width="350"/>  
+
+**Expectation of a random variable**: als een persoon een spel heel vaak uitvoert, wat zou het gemiddelde zijn
+
+Definitie: <img src="afbeeldingen/M3_erv.png" width="200"/>  
+
+**Variance of a RV**: a measure of dispersion that resembles the sample variance very closely  
+Definitie: <img src="afbeeldingen/M3_vrv.png" width="200"/>  
+
+Standard deviation: <img src="afbeeldingen/M3_standDev.png" width="60"/>  
+
+**Continuous RV**
+- Soms heeft variabele een (ontelbaar) oneindig aantal uitkomsten
+- Geen nut om kans op een nummer exact te stellen, beter met intervallen: x tussen [a,b]  
+→ probability density function
+
+Continuous uniform RV  
+<img src="afbeeldingen/M3_grafiekRV.png" width="200"/>  
+
+- P(1 < x < 1.5) = 0.5 * 0.5 = 0.25
+- P(1 < x < 1.5) = P(1 < x ≤ 1.5) = P(1 ≤ x < 1.5) = P(1 ≤ x ≤ 1.5) → en ook: P(0 ≤ x ≤ 2) = 1
+
+**Expectation and variance**  
+Voor continuous RV: formules voor expectation en variance
+- Expectation: <img src="afbeeldingen/M3_expecRV.png" width="100"/>  
+- Variance: <img src="afbeeldingen/M3_varianceRV.png" width="100"/>  
+
+slide 34
 
 ## From sample to population
