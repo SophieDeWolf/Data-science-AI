@@ -36,7 +36,7 @@ vb. variable = gender → value = male, female, ...
 Meest passende methode voor analyse bepalen: visualisatie, afwijking, relatie tussen var, ...
 
 <div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
+<!-- \pagebreak -->
 </div>
 
 | Qualitatief | Quantitatief |
@@ -78,7 +78,7 @@ Valse causale relaties: Spurious correlations
 Voorbeeld: gewelddadige videogames leiden niet altijd tot agressief gedrag
 
 <div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
+<!-- \pagebreak -->
 </div>
 
 ## Sample testing

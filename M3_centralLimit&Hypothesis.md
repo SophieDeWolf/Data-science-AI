@@ -76,6 +76,7 @@ Voor continuous RV: formules voor expectation en variance
 - Expectation: <img src="afbeeldingen/M3_expecRV.png" width="100"/>  
 - Variance: <img src="afbeeldingen/M3_varianceRV.png" width="100"/>  
 
-slide 34
+slide 34 - 36
 
 ## From sample to population
+
